@@ -12,7 +12,7 @@ int main()
 	int win=0;
 	int draw=0;
 	int lose=0;
-	char retry;
+
 	
 	{
 		cout << "+==============================+" <<endl;
